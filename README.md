@@ -25,7 +25,6 @@ Durante o desenvolvimento deste projeto, tive a oportunidade de aprender e aplic
 * [Pré-requisitos](#-pré-requisitos)
 * [Instalação Local](#-instalação-local)
 * [Créditos e Agradecimentos](#-créditos-e-agradecimentos)
-* [Licença](#-licença)
 * [Contato](#-contato)
 
 
@@ -90,10 +89,6 @@ Este projeto foi desenvolvido com base nos ensinamentos da **"Semana do 0 ao Pro
 * **Dev em Dobro:** [https://devemdobro.com/](https://devemdobro.com/)
 * **Semana do 0 ao Programador Contratado 
 
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) na raiz do repositório.
 
 
 ## ✉️ Contato
