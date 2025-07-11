@@ -51,19 +51,6 @@ Explore o projeto online e veja as funcionalidades que desenvolvi!
 
 **Acesse o Projeto:** [https://adrianathomaz.github.io/projeto-magick-ia-devemdobro/](https://adrianathomaz.github.io/projeto-magick-ia-devemdobro/)
 
-### Capturas de Tela / GIFs (Recomendado!)
-
-Para uma visualização mais dinâmica, confira as demonstrações abaixo:
-
-#### Página Inicial (Desktop)
-![Página Inicial Desktop](https://github.com/AdrianaThomaz/projeto-magick-ia-devemdobro/blob/main/docs/homepage-desktop.png?raw=true)
-*Uma visão geral da página principal do e-commerce em um dispositivo desktop.*
-**(Substitua o link acima pela sua imagem ou GIF! Crie uma pasta `docs` no seu repositório para suas imagens.)**
-
-#### Filtros em Ação (Mobile)
-![Filtros em Ação Mobile](https://github.com/AdrianaThomaz/projeto-magick-ia-devemdobro/blob/main/docs/filters-mobile-gif.gif?raw=true)
-*Exemplo da funcionalidade de filtragem por categoria e preço, demonstrando a responsividade.*
-**(Substitua o link acima pela sua imagem ou GIF!)**
 
 
 ## 💻 Como Rodar o Projeto Localmente
